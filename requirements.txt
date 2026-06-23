@@ -1,0 +1,7 @@
+customtkinter
+matplotlib
+numpy
+pandas
+scikit-learn
+statsmodels
+pyinstaller
